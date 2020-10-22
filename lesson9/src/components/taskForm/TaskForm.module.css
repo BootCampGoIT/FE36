@@ -1,0 +1,14 @@
+.form {
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+}
+.button {
+  width: 100px;
+  background-color: cornflowerblue;
+  outline: none;
+  color: white;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+}
